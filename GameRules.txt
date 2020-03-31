@@ -1,0 +1,27 @@
+LCR or Left Centre Right is a game consisting of three or 
+more players that uses three custom-made dice and some chips.
+The rules :
+o Players (including computer) is at least three in total.
+o The chips for each player at least equal to the number of
+  players (and computers). 
+o The first person to play will be randomly selected.
+o All of the player take turn to roll all the three dice. 
+o The dice have sides that marked with L , R ,  C  and three 
+  O or dots. 
+o If a player receives either  L  or  R , one chip is given to 
+  the player in your left (L) or right (R), respectively . A 
+  C  means one coin is put into the centre or the pot. 
+o If the player receives one of the three  O  or dots means no 
+  action or keep your coins.
+o When a player has fewer than three for their chips, they need 
+  to roll the dice according to the number of  chips they have. 
+o However, when a player has zero chips, they will wait for other
+  player to give their chips. 
+The winner is decided when there is only one player with chips 
+and the rest is in the pot. The score for the winner is the 
+number of chips plus the chips from the pot.
+~ For Reverse game, the player will take one chip instead of 
+  giving one chip. To start the game, each players need to give 
+  some chips into the pot. The number should not be equal or 
+  bigger than the number of chips.
+ 
